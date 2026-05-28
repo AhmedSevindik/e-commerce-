@@ -8,9 +8,7 @@ A modern, full-featured Flutter e-commerce UI template built with clean architec
 
 ## 📱 Screenshots
 
-| Home (Light) | Home (Dark) | Product List |
-|---|---|---|
-| ![](screenshots/home_light.png) | ![](screenshots/home_dark.png) | ![](screenshots/product_list.png) |
+![Preview](screenshots/screenshots_preview.png)
 
 ## ✨ Features
 
