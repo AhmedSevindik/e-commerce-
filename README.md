@@ -47,4 +47,4 @@ Full version includes:
 - 👤 Profile & Addresses
 - ⚙️ Settings & Notifications
 
-👉 **[Get Full Version on Gumroad](GUMROAD_LİNKİNİ_BURAYA_YAZ)**
+👉 **[Get Full Version on Gumroad](https://ahmedsvndk.gumroad.com/)**
